@@ -1,0 +1,6 @@
+Please Test the Api with Swagger
+http://localhost:59947/swagger/index.html#/Claim
+/api/Claim/GetClaim
+Its a post reuquest which accepts string as date time in body
+Post request is used to avoid any encoding complexity of date time input
+Frmaework Used is .Net Core
